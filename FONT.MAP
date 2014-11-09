@@ -1,0 +1,46 @@
+Error: _MAIN_PROC is duplicated in module FONTVIEW.C
+Error: _SCAN defined in module FONTVIEW.C is duplicated in module KEYB.C
+Error: _ASCII defined in module FONTVIEW.C is duplicated in module KEYB.C
+Error: _SCAN defined in module FONTVIEW.C is duplicated in module SCRUTILS.C
+Error: _ASCII defined in module FONTVIEW.C is duplicated in module SCRUTILS.C
+
+ Start  Stop   Length Name               Class
+
+ 00000H 008A0H 008A1H CMD_TEXT           CODE
+ 008A1H 009F3H 00153H CURUTILS_TEXT      CODE
+ 009F4H 01BA4H 011B1H FONTVIEW_TEXT      CODE
+ 01BA5H 01F96H 003F2H GSSCR_TEXT         CODE
+ 01F97H 01FE4H 0004EH KEYB_TEXT          CODE
+ 01FE5H 029D6H 009F2H SCRUTILS_TEXT      CODE
+ 029D7H 02B96H 001C0H STRUTILS_TEXT      CODE
+ 02B98H 0322BH 00694H _DATA              DATA
+ 0322CH 03341H 00116H _BSS               BSS
+
+Error: Undefined symbol _CPRINTF in module CURUTILS.C
+Error: Undefined symbol _FCLOSE in module FONTVIEW.C
+Error: Undefined symbol _FREAD in module FONTVIEW.C
+Error: Undefined symbol _FARMALLOC in module FONTVIEW.C
+Error: Undefined symbol _REWIND in module FONTVIEW.C
+Error: Undefined symbol _FOPEN in module FONTVIEW.C
+Error: Undefined symbol _FSEEK in module FONTVIEW.C
+Error: Undefined symbol _FTELL in module FONTVIEW.C
+Error: Undefined symbol _TEXTATTR in module FONTVIEW.C
+Error: Undefined symbol _FARFREE in module FONTVIEW.C
+Error: Undefined symbol F_LXURSH@ in module FONTVIEW.C
+Error: Undefined symbol _FPRINTF in module FONTVIEW.C
+Error: Undefined symbol _FPUTC in module FONTVIEW.C
+Error: Undefined symbol __STREAMS in module FONTVIEW.C
+Error: Undefined symbol _PUTCH in module FONTVIEW.C
+Error: Undefined symbol _CLRSCR in module FONTVIEW.C
+Error: Undefined symbol _KBHIT in module FONTVIEW.C
+Error: Undefined symbol _GOTOXY in module FONTVIEW.C
+Error: Undefined symbol _POKEB in module GSSCR.C
+Error: Undefined symbol _PRINTF in module GSSCR.C
+Error: Undefined symbol _PEEKB in module GSSCR.C
+Error: Undefined symbol _WINDOW in module SCRUTILS.C
+Error: Undefined symbol _TEXTBACKGROUND in module SCRUTILS.C
+Error: Undefined symbol _TEXTCOLOR in module SCRUTILS.C
+Error: Undefined symbol _TEXTMODE in module SCRUTILS.C
+Program entry point at 0000:0000
+Warning: No stack
+

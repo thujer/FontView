@@ -1,0 +1,2 @@
+Path=C:\PROGRA~1\Borland\CBUILD~2\Bin;C:\PROGRA~1\Borland\CBUILD~2\Projects\Bpl;C:\PROGRA~1\Borland\Delphi5\Projects\Bpl;C:\PROGRA~1\Borland\Delphi5\Bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\Program Files\ATI Technologies\ATI.ACE\;C:\Program Files\Code Architect Philips Microcontrollers;C:\Program Files\Flash Magic;C:\Program Files\doxygen\bin;;C:\PROGRA~1\CODEAR~1;C:\PROGRA~1\FLASHM~1
+PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH
